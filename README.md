@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Backend Software Engineer** with **3+ years of experience**
+- 💼 **Backend Software Engineer** with **3.5+ years of experience**
 - 🧠 Specialized in **Node.js, scalable APIs, microservices & AI-driven systems**
 - 📊 Built platforms handling **5M+ WhatsApp broadcasts**
 - 🤖 Experienced in **AI agents & conversational automation**
