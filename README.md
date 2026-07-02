@@ -1,95 +1,132 @@
-![logo](https://github.com/Nareshn99/Nareshn99/blob/main/79731568097599.5b50bca477735.jpg)
-
 <h1 align="center">Hi 👋, I'm Naresh Gohil</h1>
-<h3 align="center">Backend Software Engineer | Node.js | AI & WhatsApp Automation</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<h3 align="center">Backend & AI Engineer · Node.js · Python · RAG & Agentic AI</h3>
 
----
-
-### 🚀 About Me
-
-- 💼 **Backend Software Engineer** with **3.5+ years of experience**
-- 🧠 Specialized in **Node.js, scalable APIs, microservices & AI-driven systems**
-- 📊 Built platforms handling **5M+ WhatsApp broadcasts**
-- 🤖 Experienced in **AI agents & conversational automation**
-- 🏗️ Strong focus on **performance, scalability & clean architecture**
-
----
-
-### 🧩 What I’m Working On
-
-- 🌱 Currently exploring **advanced system design, React & MySQL**
-- 🛠️ Building **high-scale WhatsApp automation & analytics platforms**
-- ⚙️ Designing **AI-powered conversational workflows**
+<p align="center">
+  <a href="https://nareshgohil.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/naresh-gohil-985998188" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.nareshgohil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Nareshn99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 Projects & Work
+### 🧑‍💻 About Me
 
-- 🔗 Portfolio:  
-  **https://nareshgohil.netlify.app**
-- 📄 Resume:  
-  **https://drive.google.com/file/d/1TqlHehxOY3_kLSib3waYNvEDV5h-GOwE/view?usp=sharing**
+- 💼 **Backend & AI Engineer** with **4 years** building high-volume, real-time systems in **Node.js**
+- 🤖 **~2 years** building LLM-powered AI agents — **RAG, tool/function calling & agentic workflows**
+- 📊 Scaled messaging systems to **5M+ broadcasts** in production
+- 🏗️ Own backend architecture end-to-end — **API design & versioning, schema design, RBAC**
+- ⚡ Startup ownership mindset — shipping production features fast across the full backend & AI stack
+
+---
+
+### 🚀 What I'm Working On
+
+- 🧠 **PacQuant** — building the retrieval & agent layer for an AI platform in the packaging domain
+  <br/>*Hybrid retrieval (dense embeddings + BM25), RAG grounding, and autonomous multi-step agents*
+- 💬 **Just Ping** — LLM-powered WhatsApp automation scaled to **5M+ broadcast messages**
+  <br/>*Unified Meta, Karix, WATI & Gupshup under a single backend + real-time analytics APIs*
+- 🌱 Deepening **advanced system design** and **agentic AI orchestration**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**AI & LLM**
+
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings_&_Vector_Search-0A9396?style=flat-square&logo=pinecone&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **PacQuant** | AI platform for packaging — hybrid retrieval pipeline, RAG grounding, and autonomous agentic workflows. Built the token-based auth API. | `Python` `RAG` `Agentic AI` |
+| **Just Ping** | LLM-powered WhatsApp automation with RAG + web-search tools, flow-based routing, scaled to **5M+ broadcasts**. | `Node.js` `MongoDB` `Redis` |
+| **Turbo Talent** | Automated candidate screening with resume-parsing API integration and optimized backend logic. | `Node.js` `Express` |
+| **E-commerce API** | REST APIs for products, users, carts & orders with JWT auth and AWS integration. | `Node.js` `MongoDB` `AWS` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Nareshn99&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
 ### 💬 Ask Me About
 
-- Backend Development (Node.js, Express.js)
-- REST APIs & Microservices
-- WhatsApp Business API Integrations
-- AI Agents & Automation
-- System Design & Scalability
-
----
-
-### 📫 Reach Me At
-
-- 📧 Email: **nareshngohil99@gmail.com**
-
----
-
-### ⚡ Fun Fact
-
-> I write serious backend code but still think I’m funny 😄😇
+`Backend Development` · `Node.js & Express` · `REST APIs & Microservices` · `WhatsApp Business API` · `RAG & AI Agents` · `System Design & Scalability`
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/naresh-gohil-985998188" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/mr.nareshgohil" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/nareshn99" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerearth.com/@nareshngohil99" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/nareshngfbpq" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/naresh-gohil-985998188" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/mr.nareshgohil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/nareshn99" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerearth.com/@nareshngohil99" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/nareshngfbpq" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<p align="center">
+  <em>⭐️ Always excited to build scalable backend systems and intelligent AI automation</em>
 </p>
 
----
-
-⭐️ **Always excited to build scalable backend systems and intelligent automation**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nareshn99&label=Profile%20views&color=6E56CF&style=flat" alt="Profile views"/>
+</p>
