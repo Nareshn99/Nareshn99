@@ -3,7 +3,7 @@
 <h3 align="center">Backend & AI Engineer · Node.js · Python · RAG & Agentic AI</h3>
 
 <p align="center">
-  <a href="https://nareshgohil.netlify.app" target="_blank">
+  <a href="https://dev-naresh.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/naresh-gohil-985998188" target="_blank">
